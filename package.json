@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^13.16.1",
+    "cypress-if": "^1.13.2"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  }
+}
